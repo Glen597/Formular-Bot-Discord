@@ -1,0 +1,26 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Presentation bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glen597/Formular-Bot-Discord.git"
+  },
+  "author": "Benoit Mbole Ateba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glen597/Formular-Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/Glen597/Formular-Bot-Discord#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.26.0",
+    "eslint": "^9.26.0"
+  }
+}
